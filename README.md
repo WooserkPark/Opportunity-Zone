@@ -2,7 +2,7 @@
 
 ## Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004734
 
-## Note: I will continue to update it in this Github repository, including research processes and codes.
+Note: I will continue to update it in this Github repository, including research processes and codes.
 
 ### Data Extraction Examples:
 
